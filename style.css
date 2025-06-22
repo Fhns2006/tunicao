@@ -261,6 +261,9 @@ footer {
         width: 200px;
         display: flex;
         justify-content: center;
+        border: 2px, solid, black;
+        border-radius: 5px;
+        padding: 2px;
     }   
 
     nav {
@@ -300,6 +303,9 @@ footer {
     .AR {
         width: 250px;
         height: auto;
+        border: 2px, solid;
+        border-color: #00b4ff;
+        border-radius: 50px;
     }
 
     .titulofoto {
@@ -316,6 +322,9 @@ footer {
         width: 200px;
         height: auto;
         margin-left: 40px;
+        border: 2px, solid;
+        border-color: #00b4ff;
+        border-radius: 50px;
     }
 
     .link {
